@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 Currently Learning<br><br>- Flask for web development<br>- Git for version control and collaboration<br>- Fundamentals of API design</p>
+<p align="left">🌱 Currently Learning<br><br>- Typescript<br>- Node.js<br>- API design</p>
 
 ### 
 
